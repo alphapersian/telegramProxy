@@ -1,0 +1,23 @@
+{
+  "name": "54475087e4f47613f3615245fe0a1f90",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@mtproto-org/mtproxy": {
+      "version": "2.0.31",
+      "resolved": "https://registry.npmjs.org/@mtproto-org/mtproxy/-/mtproxy-2.0.31.tgz",
+      "integrity": "sha512-HEZCDJsnHfpxKqy6UM/bhQ90+8A78mMQQukcL3CuQVCzappa1DXsyLGlCsEq4WrGZPF9MNHDStyGc56GB3Jtng=="
+    }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.evennode.com:54475087e4f47613f3615245fe0a1f90.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
