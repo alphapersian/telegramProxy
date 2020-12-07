@@ -4,11 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "@mtproto-org/mtproxy": {
-      "version": "2.0.31",
-      "resolved": "https://registry.npmjs.org/@mtproto-org/mtproxy/-/mtproxy-2.0.31.tgz",
-      "integrity": "sha512-HEZCDJsnHfpxKqy6UM/bhQ90+8A78mMQQukcL3CuQVCzappa1DXsyLGlCsEq4WrGZPF9MNHDStyGc56GB3Jtng=="
-    }
+    "@mtproto-org/mtproxy": "^2.0.31"
   },
   "devDependencies": {},
   "scripts": {
