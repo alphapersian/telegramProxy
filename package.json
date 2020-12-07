@@ -1,0 +1,15 @@
+{
+  "name": "54475087e4f47613f3615245fe0a1f90",
+  "version": "1.0.0",
+  "description": "[![Telegram Channel](https://img.shields.io/badge/Channel-Telegram-blue.svg)](https://t.me/JSMTProxy)",
+  "main": "mtproxy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.evennode.com:54475087e4f47613f3615245fe0a1f90.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
